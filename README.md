@@ -53,16 +53,12 @@ The dataset contains weekly sales data of a retail chain along with other featur
 ├── data/
 │   ├── sales_data.csv    # Original sales dataset
 │   ├── processed_data.csv # Processed dataset
-├── notebooks/
-│   ├── EDA.ipynb          # Exploratory Data Analysis
-│   ├── Forecasting.ipynb  # Sales forecasting
-│   ├── Volatility.ipynb   # ARCH/GARCH volatility analysis
 ├── images/
 │   ├── correlation_heatmap.png   # Correlation matrix heatmap
 │   ├── time_series_decomposition.png # Sales decomposition plot
 ├── README.md              # Project documentation
 ├── requirements.txt       # Python dependencies
-└── main.py                # Main script
+└── AIT2209937.py                # Main script
 ```
 
 ---
