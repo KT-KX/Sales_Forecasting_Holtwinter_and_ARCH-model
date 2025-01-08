@@ -1,6 +1,6 @@
 # Sales_Forecasting_Holtwinter_and_ARCH-model
 
-```
+
 markdown
 # Retail Sales Analysis and Forecasting with Time Series Modeling
 
